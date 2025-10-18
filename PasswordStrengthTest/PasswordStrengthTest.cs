@@ -2,7 +2,7 @@ using System;
 using PasswordStrengthCheckerLib;
 using Xunit;
 
-namespace PasswordStrengthCheckerTests
+namespace PasswordStrengthTest
 {
     public class PasswordStrengthTests
     {

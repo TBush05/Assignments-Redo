@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace PasswordStrengthCheckerLib
+namespace PasswordStrength
 {
     public static class PasswordStrength
     {
